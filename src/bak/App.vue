@@ -5,6 +5,7 @@
 </template>
 
 <script>
+//import HelloWorld from './components/HelloWorld'
 import Notes from './components/Notes'
 import 'semantic-ui-css/semantic.min.css'
 export default {
